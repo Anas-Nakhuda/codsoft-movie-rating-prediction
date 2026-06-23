@@ -8,6 +8,5 @@ This repository contains a comprehensive Data Science project completed as part 
 3. **Feature Engineering & Encoding:** Transforming high-cardinality categorical variables (Genre, Director, Actors) using frequency encoding and target encoding.
 4. **Predictive Modeling:** Training and optimizing regression models (Linear Regression and Random Forest Regressor).
 5. **Evaluation:** Assessing performance using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared ($R^2$) metrics.
-
-**Author**
+## Author
 Mohd Anas Nakhuda

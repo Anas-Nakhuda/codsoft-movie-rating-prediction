@@ -1,6 +1,6 @@
 # Movie Rating Prediction with Python
 
-This repository contains a comprehensive Data Science project completed as part of the CodSoft Data Science Internship. The objective is to analyze historical movie data and build a robust regression model that accurately estimates movie ratings based on features like genre, director, actors, year, and duration.
+ The objective is to analyze historical movie data and build a robust regression model that accurately estimates movie ratings based on features like genre, director, actors, year, and duration.
 
 ## Project Workflow
 1. **Data Cleaning & Preprocessing:** Handling missing values, cleaning numeric strings (e.g., removing 'min' from duration, extracting years), and data type conversion.
